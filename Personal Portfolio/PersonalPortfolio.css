@@ -1,0 +1,20 @@
+.body{background: #f5f5f5;}
+
+.primarynav {
+    list-style-type: none;
+    background-color: blueviolet;
+    margin: 0px;
+}
+
+.secondarynav {
+    list-style-type: none;;
+    color: greenyellow;
+    cursor: pointer;
+
+}
+
+.contact-button {
+    color: red;
+
+}
+
